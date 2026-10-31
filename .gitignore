@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.venv/
+.env*
+*.log
+*.ck3
+*.zip
+*.dds
+*.png
+*.mesh
+compiled-mod/
+workshop/
+game/
+lab/
+reports/
